@@ -88,3 +88,9 @@ This repository contains the implementation of a search system designed to retri
   - `notebooks/rag_pipeline.ipynb`
   - `notebooks/vector_rag.ipynb`
 
+
+## Conclusion
+
+The hybrid search pipeline effectively leverages the strengths of both BM25 and LanceDB, resulting in enhanced accuracy and relevance. 
+
+The inclusion of LLM-powered answer generation, which has been implemented as part of the **bonus task** in **`rag_pipeline.ipynb`**, further enriches the user experience.
